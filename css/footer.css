@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
 *{
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: #24252A;
 }
 
 .pie-pagina{
@@ -63,7 +63,7 @@ pie-pagina .grupo-1 .box figure{
 }
 
 .pie-pagina .grupo-2{
-    background-color: #0a1a2a;
+    background-color: #24252A;
     padding: 15px 10px;
     text-align: center;
     color: #fff;
@@ -75,7 +75,7 @@ pie-pagina .grupo-2 small{
 /*La parte responsive*/
 @media screen and (max-width:800px) {
     .pie-pagina .grupo-1{
-        width: 90%;
+        width: 100%;
         grid-template-columns: repeat(1, 1fr);
         grid-gap: 30px;
         padding: 35px 0px;

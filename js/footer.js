@@ -1,12 +1,13 @@
 // contenidoFooter es una constante que almacena en acentos graves el HTML del footer global
-const contenidoFooter = `<!--Footer-->
+const contenidoFooter = `
+<!--Footer-->
 <footer class="pie-pagina">
 
     <div class="grupo-1">
         <div class="box">
             <figure>
                 <a href="#">
-                    <img class="logo" src="../img/logo1.png" alt="logo">
+                    <img src="../img/logo1.png" alt="logo">
                 </a>
             </figure>
         </div>

@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
 *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: #24252A;
+    background-color:#000000;
+    font-family: ;
 }
 
 .pie-pagina{
@@ -63,7 +63,7 @@ pie-pagina .grupo-1 .box figure{
 }
 
 .pie-pagina .grupo-2{
-    background-color: #24252A;
+    background-color:#000000;
     padding: 15px 10px;
     text-align: center;
     color: #fff;

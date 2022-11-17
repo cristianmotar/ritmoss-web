@@ -1,7 +1,7 @@
 // contenidoFooter es una constante que almacena en acentos graves el HTML del footer global
 const contenidoFooter = `
 <!--Footer-->
-    <footer class="pie-pagina">
+<footer class="pie-pagina">
 
         <div class="grupo-1">
             <div class="box">
@@ -12,12 +12,12 @@ const contenidoFooter = `
                 </figure>
             </div>
             <div class="box">
-                <h2>ABOUT US</h2>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, corporis.</p>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, corporis.</p>
+                <h2>SOMOS RITMOSSS</h2>
+                <p>Plataforma digital con la mira en nuevas y repensadas formas de ver el arte, la tecnología, las relaciones sociales y la vida.</p>
+                
             </div>
             <div class="box">
-                <h2>Follow Us</h2>
+                <h2>Síguenos</h2>
                 <div class="red-social">
                     <a href="#" class="fa fa-facebook"></a>
                     <a href="#" class="fa fa-facebook"></a>

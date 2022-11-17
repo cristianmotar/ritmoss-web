@@ -6,14 +6,13 @@ const contenidoNavBar = `
       <img class="logo" src="../img/logo1.png" alt="logo">
         <nav>
             <ul class="nav_links">
-                <li><a href="#">Inicio</a></li>
-                <li><a href="#">Proyectos</a></li>
-                <li><a href="#">Media</a></li>
-                <li><a href="#">About us</a></li>
-                <li><a href="#">Blog</a></li>
+                <li><a href="#">inicio</a></li>
+                <li><a href="#">proyectos</a></li>
+                <li><a href="#">media</a></li>
+                <li><a href="#">SOMOS RITMOSSS</a></li>
+                <li><a href="#">blog</a></li>
             </ul>
         </nav>
-        <a class="cta" href="#"><button>Contácto</button></a>
     </header>
 `;
 

@@ -27,7 +27,7 @@ const contenidoFooter = `
             </div>
         </div>
         <div class="grupo-2">
-            <small>&copy; 2022 <b>ritmosss</b> - Todos los Derechos Reservados.</small>
+            <small>&copy; 2023 <b>ritmosss</b> - Todos los Derechos Reservados.</small>
         </div>
 
     </footer>
